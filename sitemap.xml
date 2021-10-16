@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://tempostudio.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://tempo.academy/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://tempostudio.github.io/</loc>
+<loc>https://tempo.academy/</loc>
 </url>
 <url>
-<loc>https://tempostudio.github.io/hello-world/</loc>
+<loc>https://tempo.academy/hello-world/</loc>
 <lastmod>2021-10-16T12:27:25-05:00</lastmod>
 </url>
 </urlset>
