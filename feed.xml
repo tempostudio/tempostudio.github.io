@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Tempo Website</title>
+    <title>Tempo</title>
     <link href="https://tempo.academy/feed.xml" rel="self" />
     <link href="https://tempo.academy" />
     <updated>2021-10-16T13:34:46-05:00</updated>
