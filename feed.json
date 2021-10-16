@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://tempo.academy/the-studio/",
+            "url": "https://tempo.academy/the-studio/",
+            "title": "The Studio",
+            "summary": " ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://tempo.academy/media/posts/2//gallery/90356374_273904576940841_8771048145260724295_n.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://tempo.academy/media/posts/2//gallery/90356374_273904576940841_8771048145260724295_n-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tempo.academy/media/posts/2//gallery/90235690_3119595538073960_8524741790058974764_n.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://tempo.academy/media/posts/2//gallery/90235690_3119595538073960_8524741790058974764_n-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://tempo.academy/media/posts/2//gallery/90634631_871109489980886_2782996937653962218_n.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://tempo.academy/media/posts/2//gallery/90634631_871109489980886_2782996937653962218_n-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"720\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Austin"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-10-16T13:32:53-05:00",
+            "date_modified": "2021-10-16T13:33:17-05:00"
+        },
+        {
             "id": "https://tempo.academy/hello-world/",
             "url": "https://tempo.academy/hello-world/",
             "title": "Hello, world!",
