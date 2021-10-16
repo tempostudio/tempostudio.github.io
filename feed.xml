@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tempo Website</title>
+    <link href="https://tempostudio.github.io/feed.xml" rel="self" />
+    <link href="https://tempostudio.github.io" />
+    <updated>2021-10-16T12:27:25-05:00</updated>
+    <author>
+        <name>Austin</name>
+    </author>
+    <id>https://tempostudio.github.io</id>
+
+    <entry>
+        <title>Hello, world!</title>
+        <author>
+            <name>Austin</name>
+        </author>
+        <link href="https://tempostudio.github.io/hello-world/"/>
+        <id>https://tempostudio.github.io/hello-world/</id>
+
+        <updated>2021-10-16T12:27:25-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello, world!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello, world!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
